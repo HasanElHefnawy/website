@@ -292,3 +292,12 @@ Scoped Model is no longer updated and is here for historical purposes.
 
 
 [Scoped Model package]: {{site.pub-pkg}}/scoped_model
+
+## Flux
+
+Flux is no longer updated and is here for historical purposes.
+
+* [Flux package][], by Google
+
+
+[Flux package]: {{site.pub-pkg}}/flutter_flux
