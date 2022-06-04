@@ -145,6 +145,17 @@ doesn't need a `BuildContext`.
 [GetIt Hooks package]: {{site.pub-pkg}}/get_it_hooks
 [GetIt Mixin package]: {{site.pub-pkg}}/get_it_mixin
 
+## Stacked
+
+An architecture and widgets for an MVVM inspired architecture in Flutter.
+
+* [Stacked package][], by FilledStacks.
+* [Stacked Services package][], by FilledStacks.
+
+
+[Stacked package]: {{site.pub-pkg}}/stacked
+[Stacked Services package]: {{site.pub-pkg}}/stacked_services
+
 ## MobX
 
 A popular library based on observables and reactions.
